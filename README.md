@@ -1,1 +1,1 @@
-mywork
+This repository is a part of Front-End Web UI Frameworks and Tools: Bootstrap 4 course exercises on Coursera
